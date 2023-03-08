@@ -1,0 +1,72 @@
+[33mcommit 7d8baf1d4c557895ec05f4f2bedfe6672ad72275[m[33m ([m[1;36mHEAD -> [m[1;32mdeveloper[m[33m)[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Wed Mar 8 00:33:14 2023 +0530
+
+    this is the code that can be done
+
+[33mcommit 1bd2a3852b87208a3eea5370e212b7bdf4ce372b[m[33m ([m[1;31morigin/developer[m[33m)[m
+Author: Leetcoders1993 <126816714+Leetcoders1993@users.noreply.github.com>
+Date:   Wed Mar 8 00:30:41 2023 +0530
+
+    Update TestngInt.java
+
+[33mcommit 33edb7c1a83f8fa15b01061574ff1e85a6408ade[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Wed Mar 8 00:24:01 2023 +0530
+
+    this is the whereever house
+
+[33mcommit 010360783a0717a5a42dce16ff907298124cabd7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Tue Mar 7 23:52:14 2023 +0530
+
+    adding files to Git
+
+[33mcommit 745159e6ada14ad0e0db5b5a4afb9bb56e63b316[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Tue Mar 7 00:31:40 2023 +0530
+
+    Testing the changes
+
+[33mcommit d0586253dbd11496078fe1b9f2bcc0a01816c211[m
+Merge: ed4b068 ab884ee
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Tue Mar 7 00:29:59 2023 +0530
+
+    Merge branch 'main' of github.com:Leetcoders1993/TriconPaywheel
+
+[33mcommit ed4b06825b0e64cf47c8ef875a12c85972860933[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Tue Mar 7 00:28:49 2023 +0530
+
+    testing the changes
+
+[33mcommit ab884ee0989ad1dd8a95d5b658ac1cb16a6f47be[m
+Author: Leetcoders1993 <126816714+Leetcoders1993@users.noreply.github.com>
+Date:   Tue Mar 7 00:26:23 2023 +0530
+
+    Create Testing
+
+[33mcommit 245ded8bf3fcc6fa1cbd43a2806380cebb5405c7[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Tue Mar 7 00:16:51 2023 +0530
+
+    skip stage
+
+[33mcommit b1adaa045779ede4633b0b2fec04eb04a58e0b51[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Tue Mar 7 00:08:20 2023 +0530
+
+    deleting interview pages
+
+[33mcommit fa2c12857e5f8baccee259f03816e3a3638f7570[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Mon Mar 6 23:45:09 2023 +0530
+
+    First Commit
+
+[33mcommit bb450f443f36acbb2007fc1ddbfd2b63d592f61e[m
+Author: Sanjay.Adaki <adakisanjay@gmail.com>
+Date:   Fri Mar 3 01:49:51 2023 +0530
+
+    moving all the paywheel automation files ti git

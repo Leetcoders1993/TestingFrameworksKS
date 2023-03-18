@@ -40,7 +40,7 @@ public class InterviewTest {
 			
 			
 			
-			if(str.indexOf(unique, i+1)==-1) {
+			if(str.lastIndexOf(unique)==-1 & str.lastIndexOf(unique)!=i) {
 				
 				System.out.println(unique);
 				break;

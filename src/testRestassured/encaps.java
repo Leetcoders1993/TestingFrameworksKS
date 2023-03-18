@@ -5,6 +5,9 @@ public class encaps {
 	private int a;
 	private int j;
 	private String name;
+	
+	
+	
 	public int getA() {
 		return a;
 	}
@@ -17,9 +20,14 @@ public class encaps {
 	public void setJ(int j) {
 		this.j = j;
 	}
+	
+	
 	public String getName() {
 		return name;
 	}
+	
+	
+	
 	public void setName(String name) {
 		this.name = name;
 	}
